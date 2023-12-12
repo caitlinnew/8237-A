@@ -60,7 +60,7 @@ paths:
         '404':
           description: User Not Found
         '409':
-          description: Email Already Taken
+          description: Email Already Taken etc
       description: Update the information of an existing user.
       requestBody:
         content:
